@@ -1,3 +1,7 @@
+# Pokémon Crystal Run Hack
+Amateur attempt at making a hack for a run button in Crystal.
+
+# OG Description:
 # Pokémon Crystal [![Build Status][ci-badge]][ci]
 
 This is a disassembly of Pokémon Crystal.

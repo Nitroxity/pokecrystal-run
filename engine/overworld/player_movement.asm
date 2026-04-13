@@ -726,6 +726,11 @@ ENDM
 	ret
 
 .BikeCheck:
+    ; THESE ARE WHERE OUR CHANGES ARE, PUTTING THIS HERE FOR MY OWN SAKE
+	ldh a, [hJoyDown]
+	bit B_PAD_B, a
+	ret z
+	; HELLO CHANGES BE DONE NAO
 	ld a, [wPlayerState]
 	cp PLAYER_BIKE
 	ret z

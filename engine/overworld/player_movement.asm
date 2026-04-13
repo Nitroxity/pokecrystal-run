@@ -728,6 +728,7 @@ ENDM
 .BikeCheck:
     ; THESE ARE WHERE OUR CHANGES ARE, PUTTING THIS HERE FOR MY OWN SAKE
 	ldh a, [hJoyDown]
+	xor $ff
 	bit B_PAD_B, a
 	ret z
 	; HELLO CHANGES BE DONE NAO

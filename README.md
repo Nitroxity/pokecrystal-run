@@ -1,5 +1,6 @@
 # Pokémon Crystal Run Hack
-Amateur attempt at making a hack for a run button in Crystal.
+Amateur attempt at making a hack for a run button in Crystal. It works but hasn't been fully tested.
+NOTES: These are the bytes added to the code (in engine/overworld/player_movement.asm): F0 A8 EE FF CB 4F C8. Use to search for the change in each ROM!
 
 # OG Description:
 # Pokémon Crystal [![Build Status][ci-badge]][ci]

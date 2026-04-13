@@ -141,7 +141,7 @@ Now you're ready to [build **pokecrystal**](#build-pokecrystal).
 To download the **pokecrystal** source files:
 
 ```bash
-git clone https://github.com/pret/pokecrystal
+git clone [https://github.com/Nitroxity/pokecrystal-run] (the branch I made)
 cd pokecrystal
 ```
 
